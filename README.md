@@ -49,5 +49,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://mihai2537.github.io/Results-summary-component/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mihai2537)
+- Website - [live-website](https://mihai2537.github.io/Results-summary-component/)
+- Frontend Mentor - [@mihai2537](https://www.frontendmentor.io/profile/mihai2537)
