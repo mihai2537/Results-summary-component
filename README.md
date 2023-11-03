@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mihai2537/Results-summary-component)
-- Live Site URL: [Add live site URL here](https://mihai2537.github.io/Results-summary-component/)
+- Solution URL: [github](https://github.com/mihai2537/Results-summary-component)
+- Live Site URL: [live website](https://mihai2537.github.io/Results-summary-component/)
 
 ## My process
 
