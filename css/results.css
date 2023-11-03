@@ -1,14 +1,4 @@
-/* SPACES */
-/* 
-  2 / 4 / 8 / 12 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
-*/
-
-/* TypeScale - Major Third - Base 18 */
-/* 
-    11.5 / 14.4 / 18 / 22.5 / 28.13 / 35.16 / 43.95 / 54.93 / 68.66
-*/
 .results {
-  /* background-color: var(--cobalt-blue); */
   display: flex;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   border-radius: 30px;
@@ -37,7 +27,6 @@
 }
 
 .circle {
-  /* background-color: green; */
   background: linear-gradient(
     to bottom,
     var(--violet-blue),
@@ -61,7 +50,6 @@
 }
 
 .score-total {
-  /* color: var(--light-lavender); */
   color: rgb(200, 199, 255, 0.6);
   font-size: 1.44rem;
 }
@@ -94,10 +82,6 @@
 .title-second {
   font-size: 2.25rem;
   color: var(--dark-gray-blue);
-  /* margin-bottom: 2.4rem; */
-}
-
-.item-box {
 }
 
 .item {
@@ -147,15 +131,18 @@
 }
 
 .button {
-  margin-top: auto;
-  border: none;
+  position: relative;
   color: #fff;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
   background-color: var(--dark-gray-blue);
   font-size: inherit;
-  padding-block: 1.2rem;
-  border-radius: 100px;
-}
 
+  margin-top: auto;
+  padding-block: 1.2rem;
+}
+/* Cannot add transition time to background */
 .button:hover {
   background: linear-gradient(
     to bottom,
@@ -163,8 +150,3 @@
     var(--light-royal-blue)
   );
 }
-
-/* SPACES */
-/* 
-  2 / 4 / 8 / 12 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
-*/

@@ -1,0 +1,43 @@
+/* Below 740 px - small devices */
+@media (max-width: 46.25em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+/* Below 575 px */
+@media (max-width: 36em) {
+  .results {
+    flex-direction: column;
+  }
+
+  .container {
+    padding: 0;
+    align-items: stretch;
+  }
+
+  .panel-first {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    width: 100%;
+
+    padding-inline: 5.2rem;
+  }
+
+  .panel-second {
+    width: 100%;
+    gap: 3rem;
+  }
+
+  .item-box {
+    gap: 3rem;
+  }
+
+  .item {
+    padding-block: 2rem;
+  }
+
+  .button {
+    padding-block: 2rem;
+  }
+}
