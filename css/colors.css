@@ -1,0 +1,24 @@
+/* Primary */
+:root {
+  --light-red: rgb(255, 87, 87);
+  --orangey-yellow: rgb(255, 176, 31);
+
+  --green-teal: rgb(0, 189, 145);
+  --cobalt-blue: rgb(17, 37, 212);
+}
+
+/* Neutral */
+:root {
+  --white: #fff;
+  --pale-blue: #ebf1ff;
+  --light-lavender: rgb(200, 199, 255);
+  --dark-gray-blue: rgb(48, 59, 90);
+}
+
+/* Gradients */
+:root {
+  --light-slate-blue: #7857ff;
+  --light-royal-blue: #2e2be9;
+  --violet-blue: #4e21ca;
+  --persian-blue: rgba(36, 33, 202, 0);
+}
